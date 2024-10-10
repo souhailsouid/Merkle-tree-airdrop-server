@@ -1,0 +1,12 @@
+[
+  {
+    "address": "0x9791fDF86Cc0133A96cFc56129151dF3d5E32615",
+    "proof": [
+      "0x7b13acf11777b3ff3a5367375c7408e6bed4c84387b7e902d7876404b84900f5",
+      "0x9b3241cdd68bf524e232dae12d44bb3f4bb9b11aa8d4fb3f19916f0521aedb2c"
+    ],
+    "amount": 1,
+    "transactionHash": "0x8b1010142cce313d3b901bd8c2d870059657c0dd5aaac96053834c8ab9808d19",
+    "timestamp": "2024-10-10T11:38:44.190Z"
+  }
+]
